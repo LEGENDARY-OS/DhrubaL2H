@@ -24,8 +24,7 @@
 
 ## ✨ 𝗠𝗿'Dhruba 💜
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=-%3E+Bots+Developer;-%3E+Web+Developer;-%3E+Graphic+Designer;-%3EYouTuber;-%3E+Music+Lover;-%3E+Programmer)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=-%3E+Bots+Developer;-%3E+Music+Lover;-%3E+Programmer)](https://git.io/typing-svg)
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
@@ -34,7 +33,13 @@ You can use the website to generate badges: https://shields.io/
 
 
 
-
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
+-->
+| <a href="https://t.me/DhrubaXD"><img src="https://telegra.ph/file/8c3abf591121615cdef42.jpg" width="720px" height="720px" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------: |
+|       **[I am King of my world 🌎](https://t.me/DhrubaXD)**                                                                                |
+| <a href="https://t.me/DhrubaXD"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="100px" height="100px"></a> <a href="https://www.instagram.com/esport_bots"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="100px" height="100px"></a>                                                                                                                                                                
 
 
 
