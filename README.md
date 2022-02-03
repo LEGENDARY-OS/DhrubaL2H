@@ -40,8 +40,23 @@ You can use the website to generate badges: https://shields.io/
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[I am King of my world 🌎](https://t.me/DhrubaXD)**                                                                                |
 | <a href="https://t.me/DhrubaXD"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="100px" height="100px"></a> <a href="https://www.instagram.com/esport_bots"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="100px" height="100px"></a>                                                                                                                                                                
+  
+<!-- Talking about you -->
+**Who I Am:**
+
+<!-- Any image aligned to the right. Beware the width -->
 
 
+<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />  
+
+
+- 🚶‍ &nbsp; I live in : India 🇮🇳 <br>
+- 👀 I’m interested in ... 👉 ##Technical World 🌍
+- 🌱 I’m currently learning ... ##Java, C++ And Many More
+- 💞️ My Carrier ... Dream Of Para Comando and trying it
+- 📫 How to reach me ...[✨ 𝗠𝗿'Dhruba 💜](https://t.me/DhrubaXD): Dev
+- ⚡️ Fun-Fact: I'm Still Student;
 
 
 
