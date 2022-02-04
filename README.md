@@ -39,7 +39,7 @@ You can use the website to generate badges: https://shields.io/
 | <a href="https://t.me/DhrubaXD"><img src="https://telegra.ph/file/8c3abf591121615cdef42.jpg" width="720px" height="720px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[I am King of my world 🌎](https://t.me/DhrubaXD)**                                                                                |
-| <a href="https://t.me/DhrubaXD"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="100px" height="100px"></a> <a href="https://www.instagram.com/esport_bots"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="100px" height="100px"></a>                                                                                                                                                                
+| <a href="https://t.me/DhrubaXD"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="100px" height="100px"></a>                                                                                                                                                                 
   
 <!-- Talking about you -->
 **Who I Am:**
